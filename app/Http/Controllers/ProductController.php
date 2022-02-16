@@ -67,10 +67,7 @@ class ProductController extends Controller
         Cart::destroy($id);
         return redirect('/cartlist');
     }
-    function test()
-    {
-        
-    }
+
 
 
 
