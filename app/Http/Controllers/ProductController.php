@@ -68,7 +68,9 @@ class ProductController extends Controller
         return redirect('/cartlist');
     }
 
-   
+    function test(){
+        
+    }
 
 
 
