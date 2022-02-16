@@ -72,6 +72,10 @@ class ProductController extends Controller
         
     }
 
+    function multiply(){
+        
+    }
+
 
 
 }
